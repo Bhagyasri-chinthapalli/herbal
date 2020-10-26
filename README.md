@@ -1,6 +1,6 @@
-# herbal
-#Objective:This is my frontend which is"Herbal Trees and plants"
-#This is the explanation of my frontend webpage
+# herbal plants and trees
+Objective:This is my frontend which is"Herbal Trees and plants"
+This is the explanation of my frontend webpage
 1.The home page contains about herbal plants and trees and some information
 2.Based on our interest we have to select the options like whether we wnt to know about plants or trees
 3.Based on the option selected we enter into plants or trees page 
