@@ -15,8 +15,7 @@ This is the explanation of my frontend webpage
 6.finally this is all about my project.
 
 repl.it link of herbal trees and plants:
-
-https://herbal-trees-and-plants.18pa1a0534chint.repl.co
+https://herbal.18pa1a0534chint.repl.co
 
 youtube link of herbal tress and plants:
 
